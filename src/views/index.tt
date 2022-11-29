@@ -1,0 +1,1983 @@
+<div class="boxed_wrapper">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0.49803921568627"></fefuncr><fefuncg type="table" tableValues="0 0.49803921568627"></fefuncg><fefuncb type="table" tableValues="0 0.49803921568627"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 0.27843137254902"></fefuncg><fefuncb type="table" tableValues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0"></fefuncr><fefuncg type="table" tableValues="0 0.64705882352941"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.78039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.94901960784314"></fefuncg><fefuncb type="table" tableValues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.098039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.66274509803922"></fefuncg><fefuncb type="table" tableValues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><div class="switcher">
+<div class="switch_btn">
+<button><i class="fas fa-palette"></i></button>
+</div>
+<div class="switch_menu">
+
+<div class="switcher_container">
+<ul id="styleOptions" title="switch styling">
+<li>
+<a href="javascript: void(0)" data-theme="blue" class="blue-color"></a>
+</li>
+<li>
+<a href="javascript: void(0)" data-theme="pink" class="pink-color"></a>
+</li>
+<li>
+<a href="javascript: void(0)" data-theme="violet" class="violet-color"></a>
+</li>
+<li>
+<a href="javascript: void(0)" data-theme="crimson" class="crimson-color"></a>
+</li>
+<li>
+<a href="javascript: void(0)" data-theme="orange" class="orange-color"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="loader-wrap" style="display: none;">
+<div class="preloader">
+<div class="preloader-close">Preloader Close</div>
+</div>
+<div class="layer layer-one"><span class="overlay" style="left: 100%; transform: translate3d(0px, 0px, 0px);"></span></div>
+<div class="layer layer-two"><span class="overlay" style="left: 100%; transform: translate3d(0px, 0px, 0px);"></span></div>
+<div class="layer layer-three"><span class="overlay" style="left: 100%; transform: translate3d(0px, 0px, 0px);"></span></div>
+</div>
+
+<div id="search-popup" class="search-popup">
+<div class="close-search"><span>Close</span></div>
+<div class="popup-inner">
+<div class="overlay-layer"></div>
+<div class="search-form">
+<form method="get" action="https://smartdemowp.com/shelder/">
+<div class="form-group">
+<fieldset>
+<input type="search" class="form-control" name="s" value="" placeholder="Search Here" required="">
+<input type="submit" value="Search Now!" class="theme-btn style-four">
+</fieldset>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+
+<div class="xs-sidebar-group info-group info-sidebar">
+<div class="xs-overlay xs-bg-black"></div>
+<div class="xs-sidebar-widget">
+<div class="sidebar-widget-container">
+<div class="widget-heading">
+<a href="https://smartdemowp.com/shelder/#" class="close-side-widget">X</a>
+</div>
+<div class="sidebar-textwidget">
+<div class="sidebar-info-contents">
+<div class="content-inner">
+<div class="logo">
+<a href="https://smartdemowp.com/shelder/"><img src="https://smartdemowp.com/shelder/" alt="Shelder Logo"></a>
+</div>
+<div class="content-box">
+<h4>About Us</h4>
+<p>With more than four decades of proven success in quality roofingservices, Shelder Roofing and Retro-Fit group is a family-owned &amp;operated business serving.</p>
+<a href="https://smartdemowp.com/shelder/about-us/" class="theme-btn">Read More<i class="flaticon-login"></i></a> </div>
+<div class="contact-info">
+<h4>Contact Info</h4>
+<ul>
+<li><span class="fa fa-map-marker"></span>20 Reynolds Neck Str-50121</li>
+<li><span class="fa fa-phone"></span><a href="tel:+21-555-44-1234">+21-555-44-1234 </a></li>
+<li><span class="fa fa-envelope"></span><a href="mailto:needhelp@shelder.com">needhelp@shelder.com </a></li>
+</ul>
+</div>
+<ul class="social-box">
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-linkedin-in"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-youtube"></i></a></li> </ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<header class="main-header style-two">
+<div class="header-top">
+<div class="auto-container">
+<div class="top-inner clearfix">
+<div class="top-left pull-left">
+<ul class="info-column clearfix">
+<li><i class="flaticon-clock-1"></i>Mon-Sat: 09am to 07.30pm</li> <li><i class="flaticon-mail"></i><a href="mailto:needhelp@shelder.com">needhelp@shelder.com</a></li> </ul>
+</div>
+<div class="top-right pull-right clearfix">
+<ul class="header-nav pull-left clearfix margin-right-0">
+<li class="search-box-outer">
+<div class="search-btn">
+<button type="button" class="search-toggler"><i class="fas fa-search"></i>Search</button>
+</div>
+</li>
+</ul>
+<ul id="menu-top-bar" class="header-nav pull-left clearfix"><li id="menu-item-1536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1536"><a href="https://smartdemowp.com/shelder/faqs/">Faqs</a></li>
+<li id="menu-item-2182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2182"><a href="https://smartdemowp.com/shelder/pricing-plan/">Pricing</a></li>
+</ul> <ul class="social-links pull-left clearfix">
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-linkedin-in"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-youtube"></i></a></li> </ul>
+</div>
+</div>
+</div>
+</div>
+<div class="header-upper">
+<div class="auto-container">
+<div class="upper-inner clearfix">
+<div class="logo-box pull-left">
+<figure class="logo">
+<a href="https://smartdemowp.com/shelder/"><img src="./01_files/logo-2.png" alt="Shelder Logo"></a>
+</figure>
+</div>
+<ul class="info-box pull-right clearfix">
+<li class="single-info">
+<i class="flaticon-clock"></i>
+<h5><a href="tel:+21-555-44-1234">+21-555-44-1234</a></h5>
+<p>Need help? Make a Call</p>
+</li>
+<li class="single-info">
+<i class="flaticon-pin"></i>
+<h5>New york</h5>
+<p>20 Reynolds Neck Str-50121</p>
+</li>
+<li class="btn-box">
+<a href="https://smartdemowp.com/shelder/contact-01/" class="theme-btn">Free Estimate<i class="flaticon-login"></i></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="header-lower">
+<div class="auto-container">
+<div class="outer-box clearfix">
+<div class="menu-area">
+
+<div class="mobile-nav-toggler">
+<i class="icon-bar"></i>
+<i class="icon-bar"></i>
+<i class="icon-bar"></i>
+</div>
+<nav class="main-menu navbar-expand-md navbar-light">
+<div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+<ul id="menu-main-menu" class="navigation clearfix"><li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children dropdown active menu-item-17 nav-item"><a title="Home" href="https://smartdemowp.com/shelder/" aria-haspopup="true" aria-expanded="false" id="17" aria-current="page">Home</a>
+<ul class="dropdown" aria-labelledby="17" role="menu">
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item active menu-item-866 nav-item"><a title="Home 1" href="https://smartdemowp.com/shelder/" class="dropdown " aria-current="page">Home 1</a></li>
+<li id="menu-item-2107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2107 nav-item"><a title="Home 02" href="https://smartdemowp.com/shelder/home-2/?header_type=1" class="dropdown ">Home 02</a></li>
+<li id="menu-item-2696" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children dropdown active menu-item-2696 nav-item"><a title="Header Style" href="https://smartdemowp.com/shelder/#" class="dropdown ">Header Style</a>
+<ul class="dropdown" aria-labelledby="17" role="menu">
+<li id="menu-item-2697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item active menu-item-2697 nav-item"><a title="Header Style 01" href="https://smartdemowp.com/shelder/" class="dropdown " aria-current="page">Header Style 01</a></li>
+<li id="menu-item-2698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2698 nav-item"><a title="Header Style 02" href="https://smartdemowp.com/shelder/home-2/?header_type=1" class="dropdown ">Header Style 02</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-349 nav-item"><a title="Our Company" href="https://smartdemowp.com/shelder/#" aria-haspopup="true" aria-expanded="false" id="349">Our Company</a>
+<ul class="dropdown" aria-labelledby="349" role="menu">
+<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350 nav-item"><a title="About Us" href="https://smartdemowp.com/shelder/about-us/" class="dropdown ">About Us</a></li>
+<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354 nav-item"><a title="Faqs" href="https://smartdemowp.com/shelder/faqs/" class="dropdown ">Faqs</a></li>
+<li id="menu-item-1973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1973 nav-item"><a title="Pricing Plan" href="https://smartdemowp.com/shelder/pricing-plan/" class="dropdown ">Pricing Plan</a></li>
+<li id="menu-item-1860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1860 nav-item"><a title="Team 01" href="https://smartdemowp.com/shelder/team-01/" class="dropdown ">Team 01</a></li>
+<li id="menu-item-1859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1859 nav-item"><a title="Team 02" href="https://smartdemowp.com/shelder/team-02/" class="dropdown ">Team 02</a></li>
+<li id="menu-item-1870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1870 nav-item"><a title="Testimonials" href="https://smartdemowp.com/shelder/testimonials/" class="dropdown ">Testimonials</a></li>
+<li id="menu-item-353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353 nav-item"><a title="404 Page" href="https://smartdemowp.com/shelder/404" class="dropdown ">404 Page</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-1982 nav-item"><a title="Services" href="https://smartdemowp.com/shelder/our-services/" aria-haspopup="true" aria-expanded="false" id="1982">Services</a>
+<ul class="dropdown" aria-labelledby="1982" role="menu">
+<li id="menu-item-1983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1983 nav-item"><a title="Our Services" href="https://smartdemowp.com/shelder/our-services/" class="dropdown ">Our Services</a></li>
+<li id="menu-item-2151" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-2151 nav-item"><a title="Service Details" href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/" class="dropdown ">Service Details</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1888" class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1888 nav-item"><a title="Elements" href="https://smartdemowp.com/shelder/#" aria-haspopup="true" aria-expanded="false" id="1888">Elements</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1912 nav-item"><a title="Elements 1" href="https://smartdemowp.com/shelder/#" class="dropdown ">Elements 1</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1896 nav-item"><a title="About 01" href="https://smartdemowp.com/shelder/about-01/" class="dropdown ">About 01</a></li>
+<li id="menu-item-1895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1895 nav-item"><a title="About 02" href="https://smartdemowp.com/shelder/about-02/" class="dropdown ">About 02</a></li>
+<li id="menu-item-1905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1905 nav-item"><a title="Fun Fact 01" href="https://smartdemowp.com/shelder/fun-fact-01/" class="dropdown ">Fun Fact 01</a></li>
+<li id="menu-item-1904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1904 nav-item"><a title="Fun Fact 02" href="https://smartdemowp.com/shelder/fun-fact-02/" class="dropdown ">Fun Fact 02</a></li>
+<li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084 nav-item"><a title="Fun Fact 03" href="https://smartdemowp.com/shelder/fun-fact-03/" class="dropdown ">Fun Fact 03</a></li>
+<li id="menu-item-1925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1925 nav-item"><a title="Service 01" href="https://smartdemowp.com/shelder/service-01/" class="dropdown ">Service 01</a></li>
+<li id="menu-item-1924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1924 nav-item"><a title="Service 02" href="https://smartdemowp.com/shelder/service-02/" class="dropdown ">Service 02</a></li>
+<li id="menu-item-1929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1929 nav-item"><a title="Working Process" href="https://smartdemowp.com/shelder/working-process/" class="dropdown ">Working Process</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1913 nav-item"><a title="Elements 2" href="https://smartdemowp.com/shelder/#" class="dropdown ">Elements 2</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1915 nav-item"><a title="Team 01" href="https://smartdemowp.com/shelder/team-01/" class="dropdown ">Team 01</a></li>
+<li id="menu-item-1914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1914 nav-item"><a title="Team 02" href="https://smartdemowp.com/shelder/team-02/" class="dropdown ">Team 02</a></li>
+<li id="menu-item-1923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1923 nav-item"><a title="Team 03" href="https://smartdemowp.com/shelder/team-03/" class="dropdown ">Team 03</a></li>
+<li id="menu-item-1922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1922 nav-item"><a title="Team 04" href="https://smartdemowp.com/shelder/team-04/" class="dropdown ">Team 04</a></li>
+<li id="menu-item-1942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1942 nav-item"><a title="News 01" href="https://smartdemowp.com/shelder/news-01/" class="dropdown ">News 01</a></li>
+<li id="menu-item-1941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1941 nav-item"><a title="News 02" href="https://smartdemowp.com/shelder/news-02/" class="dropdown ">News 02</a></li>
+<li id="menu-item-1940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1940 nav-item"><a title="News 03" href="https://smartdemowp.com/shelder/news-03/" class="dropdown ">News 03</a></li>
+<li id="menu-item-1945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1945 nav-item"><a title="Repair Block" href="https://smartdemowp.com/shelder/repair-block/" class="dropdown ">Repair Block</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1946 nav-item"><a title="Elements 3" href="https://smartdemowp.com/shelder/#" class="dropdown ">Elements 3</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1954 nav-item"><a title="Testimonial 01" href="https://smartdemowp.com/shelder/testimonial-01/" class="dropdown ">Testimonial 01</a></li>
+<li id="menu-item-1953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1953 nav-item"><a title="Testimonial 02" href="https://smartdemowp.com/shelder/testimonial-02/" class="dropdown ">Testimonial 02</a></li>
+<li id="menu-item-1961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1961 nav-item"><a title="Choose Block" href="https://smartdemowp.com/shelder/choose-block/" class="dropdown ">Choose Block</a></li>
+<li id="menu-item-1966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1966 nav-item"><a title="Booking Form" href="https://smartdemowp.com/shelder/booking-form/" class="dropdown ">Booking Form</a></li>
+<li id="menu-item-1965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1965 nav-item"><a title="Appointment Form" href="https://smartdemowp.com/shelder/appointment-form/" class="dropdown ">Appointment Form</a></li>
+<li id="menu-item-2080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2080 nav-item"><a title="Contact Form" href="https://smartdemowp.com/shelder/contact-form/" class="dropdown ">Contact Form</a></li>
+<li id="menu-item-2071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2071 nav-item"><a title="Faq Block" href="https://smartdemowp.com/shelder/faq-block/" class="dropdown ">Faq Block</a></li>
+<li id="menu-item-2076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2076 nav-item"><a title="Pricing Block" href="https://smartdemowp.com/shelder/pricing-block/" class="dropdown ">Pricing Block</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1881 nav-item"><a title="Works" href="https://smartdemowp.com/shelder/#" aria-haspopup="true" aria-expanded="false" id="1881">Works</a>
+<ul class="dropdown" aria-labelledby="1881" role="menu">
+<li id="menu-item-1882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1882 nav-item"><a title="Classic View" href="https://smartdemowp.com/shelder/project-01/" class="dropdown ">Classic View</a></li>
+<li id="menu-item-1887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1887 nav-item"><a title="Modern View" href="https://smartdemowp.com/shelder/project-02/" class="dropdown ">Modern View</a></li>
+<li id="menu-item-1886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1886 nav-item"><a title="Masonry Style 01" href="https://smartdemowp.com/shelder/project-03/" class="dropdown ">Masonry Style 01</a></li>
+<li id="menu-item-1885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1885 nav-item"><a title="Masonry Style 02" href="https://smartdemowp.com/shelder/project-04/" class="dropdown ">Masonry Style 02</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-356 nav-item"><a title="Blog" href="https://smartdemowp.com/shelder/news/" aria-haspopup="true" aria-expanded="false" id="356">Blog</a>
+<ul class="dropdown" aria-labelledby="356" role="menu">
+<li id="menu-item-1565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1565 nav-item"><a title="Blog Classic" href="https://smartdemowp.com/shelder/news/" class="dropdown ">Blog Classic</a></li>
+<li id="menu-item-1564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564 nav-item"><a title="Blog Grid" href="https://smartdemowp.com/shelder/news/?blog_type=2" class="dropdown ">Blog Grid</a></li>
+<li id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1967 nav-item"><a title="Blog Single" href="https://smartdemowp.com/shelder/protecting-your-roof-from-storm-damage/" class="dropdown ">Blog Single</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-2519 nav-item"><a title="Shop" href="https://smartdemowp.com/shelder/shop/" aria-haspopup="true" aria-expanded="false" id="2519">Shop</a>
+<ul class="dropdown" aria-labelledby="2519" role="menu">
+<li id="menu-item-2540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2540 nav-item"><a title="Products" href="https://smartdemowp.com/shelder/shop/" class="dropdown ">Products</a></li>
+<li id="menu-item-2541" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2541 nav-item"><a title="Product Single" href="https://smartdemowp.com/shelder/product/album/" class="dropdown ">Product Single</a></li>
+<li id="menu-item-2543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2543 nav-item"><a title="Shopping Cart" href="https://smartdemowp.com/shelder/cart/" class="dropdown ">Shopping Cart</a></li>
+<li id="menu-item-2542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2542 nav-item"><a title="Checkout" href="https://smartdemowp.com/shelder/checkout/" class="dropdown ">Checkout</a></li>
+<li id="menu-item-2537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2537 nav-item"><a title="My account" href="https://smartdemowp.com/shelder/my-account/" class="dropdown ">My account</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-355 nav-item"><a title="Contact" href="https://smartdemowp.com/shelder/contact-01/" aria-haspopup="true" aria-expanded="false" id="355">Contact</a>
+<ul class="dropdown" aria-labelledby="355" role="menu">
+<li id="menu-item-2020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2020 nav-item"><a title="Contact 01" href="https://smartdemowp.com/shelder/contact-01/" class="dropdown ">Contact 01</a></li>
+<li id="menu-item-2021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 nav-item"><a title="Contact 02" href="https://smartdemowp.com/shelder/contact-02/" class="dropdown ">Contact 02</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+</ul> </div>
+</nav>
+<div class="menu-right-content clearfix pull-right">
+<div class="cart-box">
+<a href="https://smartdemowp.com/shelder/cart/"><i class="flaticon-sales"></i>
+</a>
+</div>
+<div class="nav-box">
+<div class="nav-btn nav-toggler navSidebar-button clearfix">
+<i class="flaticon-sort"></i>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="sticky-header">
+<div class="auto-container">
+<div class="outer-box clearfix">
+<div class="menu-area">
+<nav class="main-menu clearfix">
+
+
+<div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+<ul id="menu-main-menu" class="navigation clearfix"><li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children dropdown active menu-item-17 nav-item"><a title="Home" href="https://smartdemowp.com/shelder/" aria-haspopup="true" aria-expanded="false" id="17" aria-current="page">Home</a>
+<ul class="dropdown" aria-labelledby="17" role="menu">
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item active menu-item-866 nav-item"><a title="Home 1" href="https://smartdemowp.com/shelder/" class="dropdown " aria-current="page">Home 1</a></li>
+<li id="menu-item-2107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2107 nav-item"><a title="Home 02" href="https://smartdemowp.com/shelder/home-2/?header_type=1" class="dropdown ">Home 02</a></li>
+<li id="menu-item-2696" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children dropdown active menu-item-2696 nav-item"><a title="Header Style" href="https://smartdemowp.com/shelder/#" class="dropdown ">Header Style</a>
+<ul class="dropdown" aria-labelledby="17" role="menu">
+<li id="menu-item-2697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item active menu-item-2697 nav-item"><a title="Header Style 01" href="https://smartdemowp.com/shelder/" class="dropdown " aria-current="page">Header Style 01</a></li>
+<li id="menu-item-2698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2698 nav-item"><a title="Header Style 02" href="https://smartdemowp.com/shelder/home-2/?header_type=1" class="dropdown ">Header Style 02</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-349 nav-item"><a title="Our Company" href="https://smartdemowp.com/shelder/#" aria-haspopup="true" aria-expanded="false" id="349">Our Company</a>
+<ul class="dropdown" aria-labelledby="349" role="menu">
+<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350 nav-item"><a title="About Us" href="https://smartdemowp.com/shelder/about-us/" class="dropdown ">About Us</a></li>
+<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354 nav-item"><a title="Faqs" href="https://smartdemowp.com/shelder/faqs/" class="dropdown ">Faqs</a></li>
+<li id="menu-item-1973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1973 nav-item"><a title="Pricing Plan" href="https://smartdemowp.com/shelder/pricing-plan/" class="dropdown ">Pricing Plan</a></li>
+<li id="menu-item-1860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1860 nav-item"><a title="Team 01" href="https://smartdemowp.com/shelder/team-01/" class="dropdown ">Team 01</a></li>
+<li id="menu-item-1859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1859 nav-item"><a title="Team 02" href="https://smartdemowp.com/shelder/team-02/" class="dropdown ">Team 02</a></li>
+<li id="menu-item-1870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1870 nav-item"><a title="Testimonials" href="https://smartdemowp.com/shelder/testimonials/" class="dropdown ">Testimonials</a></li>
+<li id="menu-item-353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353 nav-item"><a title="404 Page" href="https://smartdemowp.com/shelder/404" class="dropdown ">404 Page</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-1982 nav-item"><a title="Services" href="https://smartdemowp.com/shelder/our-services/" aria-haspopup="true" aria-expanded="false" id="1982">Services</a>
+<ul class="dropdown" aria-labelledby="1982" role="menu">
+<li id="menu-item-1983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1983 nav-item"><a title="Our Services" href="https://smartdemowp.com/shelder/our-services/" class="dropdown ">Our Services</a></li>
+<li id="menu-item-2151" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-2151 nav-item"><a title="Service Details" href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/" class="dropdown ">Service Details</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1888" class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1888 nav-item"><a title="Elements" href="https://smartdemowp.com/shelder/#" aria-haspopup="true" aria-expanded="false" id="1888">Elements</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1912 nav-item"><a title="Elements 1" href="https://smartdemowp.com/shelder/#" class="dropdown ">Elements 1</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1896 nav-item"><a title="About 01" href="https://smartdemowp.com/shelder/about-01/" class="dropdown ">About 01</a></li>
+<li id="menu-item-1895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1895 nav-item"><a title="About 02" href="https://smartdemowp.com/shelder/about-02/" class="dropdown ">About 02</a></li>
+<li id="menu-item-1905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1905 nav-item"><a title="Fun Fact 01" href="https://smartdemowp.com/shelder/fun-fact-01/" class="dropdown ">Fun Fact 01</a></li>
+<li id="menu-item-1904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1904 nav-item"><a title="Fun Fact 02" href="https://smartdemowp.com/shelder/fun-fact-02/" class="dropdown ">Fun Fact 02</a></li>
+<li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084 nav-item"><a title="Fun Fact 03" href="https://smartdemowp.com/shelder/fun-fact-03/" class="dropdown ">Fun Fact 03</a></li>
+<li id="menu-item-1925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1925 nav-item"><a title="Service 01" href="https://smartdemowp.com/shelder/service-01/" class="dropdown ">Service 01</a></li>
+<li id="menu-item-1924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1924 nav-item"><a title="Service 02" href="https://smartdemowp.com/shelder/service-02/" class="dropdown ">Service 02</a></li>
+<li id="menu-item-1929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1929 nav-item"><a title="Working Process" href="https://smartdemowp.com/shelder/working-process/" class="dropdown ">Working Process</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1913 nav-item"><a title="Elements 2" href="https://smartdemowp.com/shelder/#" class="dropdown ">Elements 2</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1915 nav-item"><a title="Team 01" href="https://smartdemowp.com/shelder/team-01/" class="dropdown ">Team 01</a></li>
+<li id="menu-item-1914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1914 nav-item"><a title="Team 02" href="https://smartdemowp.com/shelder/team-02/" class="dropdown ">Team 02</a></li>
+<li id="menu-item-1923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1923 nav-item"><a title="Team 03" href="https://smartdemowp.com/shelder/team-03/" class="dropdown ">Team 03</a></li>
+<li id="menu-item-1922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1922 nav-item"><a title="Team 04" href="https://smartdemowp.com/shelder/team-04/" class="dropdown ">Team 04</a></li>
+<li id="menu-item-1942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1942 nav-item"><a title="News 01" href="https://smartdemowp.com/shelder/news-01/" class="dropdown ">News 01</a></li>
+<li id="menu-item-1941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1941 nav-item"><a title="News 02" href="https://smartdemowp.com/shelder/news-02/" class="dropdown ">News 02</a></li>
+<li id="menu-item-1940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1940 nav-item"><a title="News 03" href="https://smartdemowp.com/shelder/news-03/" class="dropdown ">News 03</a></li>
+<li id="menu-item-1945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1945 nav-item"><a title="Repair Block" href="https://smartdemowp.com/shelder/repair-block/" class="dropdown ">Repair Block</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1946 nav-item"><a title="Elements 3" href="https://smartdemowp.com/shelder/#" class="dropdown ">Elements 3</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1954 nav-item"><a title="Testimonial 01" href="https://smartdemowp.com/shelder/testimonial-01/" class="dropdown ">Testimonial 01</a></li>
+<li id="menu-item-1953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1953 nav-item"><a title="Testimonial 02" href="https://smartdemowp.com/shelder/testimonial-02/" class="dropdown ">Testimonial 02</a></li>
+<li id="menu-item-1961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1961 nav-item"><a title="Choose Block" href="https://smartdemowp.com/shelder/choose-block/" class="dropdown ">Choose Block</a></li>
+<li id="menu-item-1966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1966 nav-item"><a title="Booking Form" href="https://smartdemowp.com/shelder/booking-form/" class="dropdown ">Booking Form</a></li>
+<li id="menu-item-1965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1965 nav-item"><a title="Appointment Form" href="https://smartdemowp.com/shelder/appointment-form/" class="dropdown ">Appointment Form</a></li>
+<li id="menu-item-2080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2080 nav-item"><a title="Contact Form" href="https://smartdemowp.com/shelder/contact-form/" class="dropdown ">Contact Form</a></li>
+<li id="menu-item-2071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2071 nav-item"><a title="Faq Block" href="https://smartdemowp.com/shelder/faq-block/" class="dropdown ">Faq Block</a></li>
+<li id="menu-item-2076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2076 nav-item"><a title="Pricing Block" href="https://smartdemowp.com/shelder/pricing-block/" class="dropdown ">Pricing Block</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1881 nav-item"><a title="Works" href="https://smartdemowp.com/shelder/#" aria-haspopup="true" aria-expanded="false" id="1881">Works</a>
+<ul class="dropdown" aria-labelledby="1881" role="menu">
+<li id="menu-item-1882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1882 nav-item"><a title="Classic View" href="https://smartdemowp.com/shelder/project-01/" class="dropdown ">Classic View</a></li>
+<li id="menu-item-1887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1887 nav-item"><a title="Modern View" href="https://smartdemowp.com/shelder/project-02/" class="dropdown ">Modern View</a></li>
+<li id="menu-item-1886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1886 nav-item"><a title="Masonry Style 01" href="https://smartdemowp.com/shelder/project-03/" class="dropdown ">Masonry Style 01</a></li>
+<li id="menu-item-1885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1885 nav-item"><a title="Masonry Style 02" href="https://smartdemowp.com/shelder/project-04/" class="dropdown ">Masonry Style 02</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-356 nav-item"><a title="Blog" href="https://smartdemowp.com/shelder/news/" aria-haspopup="true" aria-expanded="false" id="356">Blog</a>
+<ul class="dropdown" aria-labelledby="356" role="menu">
+<li id="menu-item-1565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1565 nav-item"><a title="Blog Classic" href="https://smartdemowp.com/shelder/news/" class="dropdown ">Blog Classic</a></li>
+<li id="menu-item-1564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564 nav-item"><a title="Blog Grid" href="https://smartdemowp.com/shelder/news/?blog_type=2" class="dropdown ">Blog Grid</a></li>
+<li id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1967 nav-item"><a title="Blog Single" href="https://smartdemowp.com/shelder/protecting-your-roof-from-storm-damage/" class="dropdown ">Blog Single</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-2519 nav-item"><a title="Shop" href="https://smartdemowp.com/shelder/shop/" aria-haspopup="true" aria-expanded="false" id="2519">Shop</a>
+<ul class="dropdown" aria-labelledby="2519" role="menu">
+<li id="menu-item-2540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2540 nav-item"><a title="Products" href="https://smartdemowp.com/shelder/shop/" class="dropdown ">Products</a></li>
+<li id="menu-item-2541" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2541 nav-item"><a title="Product Single" href="https://smartdemowp.com/shelder/product/album/" class="dropdown ">Product Single</a></li>
+<li id="menu-item-2543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2543 nav-item"><a title="Shopping Cart" href="https://smartdemowp.com/shelder/cart/" class="dropdown ">Shopping Cart</a></li>
+<li id="menu-item-2542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2542 nav-item"><a title="Checkout" href="https://smartdemowp.com/shelder/checkout/" class="dropdown ">Checkout</a></li>
+<li id="menu-item-2537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2537 nav-item"><a title="My account" href="https://smartdemowp.com/shelder/my-account/" class="dropdown ">My account</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-355 nav-item"><a title="Contact" href="https://smartdemowp.com/shelder/contact-01/" aria-haspopup="true" aria-expanded="false" id="355">Contact</a>
+<ul class="dropdown" aria-labelledby="355" role="menu">
+<li id="menu-item-2020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2020 nav-item"><a title="Contact 01" href="https://smartdemowp.com/shelder/contact-01/" class="dropdown ">Contact 01</a></li>
+<li id="menu-item-2021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 nav-item"><a title="Contact 02" href="https://smartdemowp.com/shelder/contact-02/" class="dropdown ">Contact 02</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+</ul> </div>
+</nav>
+<div class="menu-right-content clearfix pull-right">
+<div class="cart-box">
+<a href="https://smartdemowp.com/shelder/cart/"><i class="flaticon-sales"></i>
+</a>
+</div>
+<div class="nav-box">
+<div class="nav-btn nav-toggler navSidebar-button clearfix">
+<i class="flaticon-sort"></i>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+
+<div class="mobile-menu">
+<div class="menu-backdrop"></div>
+<div class="close-btn"><i class="fas fa-times"></i></div>
+<nav class="menu-box mCustomScrollbar _mCS_1 mCS_no_scrollbar"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: 886px;" tabindex="0"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+<div class="nav-logo">
+<a href="https://smartdemowp.com/shelder/">
+<img src="./01_files/logo.png" alt="Shelder Logo" class="mCS_img_loaded">
+</a>
+</div>
+<div class="menu-outer">
+
+
+<div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+<ul id="menu-main-menu" class="navigation clearfix"><li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children dropdown active menu-item-17 nav-item"><a title="Home" href="https://smartdemowp.com/shelder/" aria-haspopup="true" aria-expanded="false" id="17" aria-current="page">Home</a>
+<ul class="dropdown" aria-labelledby="17" role="menu">
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item active menu-item-866 nav-item"><a title="Home 1" href="https://smartdemowp.com/shelder/" class="dropdown " aria-current="page">Home 1</a></li>
+<li id="menu-item-2107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2107 nav-item"><a title="Home 02" href="https://smartdemowp.com/shelder/home-2/?header_type=1" class="dropdown ">Home 02</a></li>
+<li id="menu-item-2696" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children dropdown active menu-item-2696 nav-item"><a title="Header Style" href="https://smartdemowp.com/shelder/#" class="dropdown ">Header Style</a>
+<ul class="dropdown" aria-labelledby="17" role="menu">
+<li id="menu-item-2697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item active menu-item-2697 nav-item"><a title="Header Style 01" href="https://smartdemowp.com/shelder/" class="dropdown " aria-current="page">Header Style 01</a></li>
+<li id="menu-item-2698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2698 nav-item"><a title="Header Style 02" href="https://smartdemowp.com/shelder/home-2/?header_type=1" class="dropdown ">Header Style 02</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-349 nav-item"><a title="Our Company" href="https://smartdemowp.com/shelder/#" aria-haspopup="true" aria-expanded="false" id="349">Our Company</a>
+<ul class="dropdown" aria-labelledby="349" role="menu">
+<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350 nav-item"><a title="About Us" href="https://smartdemowp.com/shelder/about-us/" class="dropdown ">About Us</a></li>
+<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354 nav-item"><a title="Faqs" href="https://smartdemowp.com/shelder/faqs/" class="dropdown ">Faqs</a></li>
+<li id="menu-item-1973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1973 nav-item"><a title="Pricing Plan" href="https://smartdemowp.com/shelder/pricing-plan/" class="dropdown ">Pricing Plan</a></li>
+<li id="menu-item-1860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1860 nav-item"><a title="Team 01" href="https://smartdemowp.com/shelder/team-01/" class="dropdown ">Team 01</a></li>
+<li id="menu-item-1859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1859 nav-item"><a title="Team 02" href="https://smartdemowp.com/shelder/team-02/" class="dropdown ">Team 02</a></li>
+<li id="menu-item-1870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1870 nav-item"><a title="Testimonials" href="https://smartdemowp.com/shelder/testimonials/" class="dropdown ">Testimonials</a></li>
+<li id="menu-item-353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353 nav-item"><a title="404 Page" href="https://smartdemowp.com/shelder/404" class="dropdown ">404 Page</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-1982 nav-item"><a title="Services" href="https://smartdemowp.com/shelder/our-services/" aria-haspopup="true" aria-expanded="false" id="1982">Services</a>
+<ul class="dropdown" aria-labelledby="1982" role="menu">
+<li id="menu-item-1983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1983 nav-item"><a title="Our Services" href="https://smartdemowp.com/shelder/our-services/" class="dropdown ">Our Services</a></li>
+<li id="menu-item-2151" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-2151 nav-item"><a title="Service Details" href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/" class="dropdown ">Service Details</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1888" class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1888 nav-item"><a title="Elements" href="https://smartdemowp.com/shelder/#" aria-haspopup="true" aria-expanded="false" id="1888">Elements</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1912 nav-item"><a title="Elements 1" href="https://smartdemowp.com/shelder/#" class="dropdown ">Elements 1</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1896 nav-item"><a title="About 01" href="https://smartdemowp.com/shelder/about-01/" class="dropdown ">About 01</a></li>
+<li id="menu-item-1895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1895 nav-item"><a title="About 02" href="https://smartdemowp.com/shelder/about-02/" class="dropdown ">About 02</a></li>
+<li id="menu-item-1905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1905 nav-item"><a title="Fun Fact 01" href="https://smartdemowp.com/shelder/fun-fact-01/" class="dropdown ">Fun Fact 01</a></li>
+<li id="menu-item-1904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1904 nav-item"><a title="Fun Fact 02" href="https://smartdemowp.com/shelder/fun-fact-02/" class="dropdown ">Fun Fact 02</a></li>
+<li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084 nav-item"><a title="Fun Fact 03" href="https://smartdemowp.com/shelder/fun-fact-03/" class="dropdown ">Fun Fact 03</a></li>
+<li id="menu-item-1925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1925 nav-item"><a title="Service 01" href="https://smartdemowp.com/shelder/service-01/" class="dropdown ">Service 01</a></li>
+<li id="menu-item-1924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1924 nav-item"><a title="Service 02" href="https://smartdemowp.com/shelder/service-02/" class="dropdown ">Service 02</a></li>
+<li id="menu-item-1929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1929 nav-item"><a title="Working Process" href="https://smartdemowp.com/shelder/working-process/" class="dropdown ">Working Process</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1913 nav-item"><a title="Elements 2" href="https://smartdemowp.com/shelder/#" class="dropdown ">Elements 2</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1915 nav-item"><a title="Team 01" href="https://smartdemowp.com/shelder/team-01/" class="dropdown ">Team 01</a></li>
+<li id="menu-item-1914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1914 nav-item"><a title="Team 02" href="https://smartdemowp.com/shelder/team-02/" class="dropdown ">Team 02</a></li>
+<li id="menu-item-1923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1923 nav-item"><a title="Team 03" href="https://smartdemowp.com/shelder/team-03/" class="dropdown ">Team 03</a></li>
+<li id="menu-item-1922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1922 nav-item"><a title="Team 04" href="https://smartdemowp.com/shelder/team-04/" class="dropdown ">Team 04</a></li>
+<li id="menu-item-1942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1942 nav-item"><a title="News 01" href="https://smartdemowp.com/shelder/news-01/" class="dropdown ">News 01</a></li>
+<li id="menu-item-1941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1941 nav-item"><a title="News 02" href="https://smartdemowp.com/shelder/news-02/" class="dropdown ">News 02</a></li>
+<li id="menu-item-1940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1940 nav-item"><a title="News 03" href="https://smartdemowp.com/shelder/news-03/" class="dropdown ">News 03</a></li>
+<li id="menu-item-1945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1945 nav-item"><a title="Repair Block" href="https://smartdemowp.com/shelder/repair-block/" class="dropdown ">Repair Block</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1946 nav-item"><a title="Elements 3" href="https://smartdemowp.com/shelder/#" class="dropdown ">Elements 3</a>
+<ul class="dropdown" aria-labelledby="1888" role="menu">
+<li id="menu-item-1954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1954 nav-item"><a title="Testimonial 01" href="https://smartdemowp.com/shelder/testimonial-01/" class="dropdown ">Testimonial 01</a></li>
+<li id="menu-item-1953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1953 nav-item"><a title="Testimonial 02" href="https://smartdemowp.com/shelder/testimonial-02/" class="dropdown ">Testimonial 02</a></li>
+<li id="menu-item-1961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1961 nav-item"><a title="Choose Block" href="https://smartdemowp.com/shelder/choose-block/" class="dropdown ">Choose Block</a></li>
+<li id="menu-item-1966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1966 nav-item"><a title="Booking Form" href="https://smartdemowp.com/shelder/booking-form/" class="dropdown ">Booking Form</a></li>
+<li id="menu-item-1965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1965 nav-item"><a title="Appointment Form" href="https://smartdemowp.com/shelder/appointment-form/" class="dropdown ">Appointment Form</a></li>
+<li id="menu-item-2080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2080 nav-item"><a title="Contact Form" href="https://smartdemowp.com/shelder/contact-form/" class="dropdown ">Contact Form</a></li>
+<li id="menu-item-2071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2071 nav-item"><a title="Faq Block" href="https://smartdemowp.com/shelder/faq-block/" class="dropdown ">Faq Block</a></li>
+<li id="menu-item-2076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2076 nav-item"><a title="Pricing Block" href="https://smartdemowp.com/shelder/pricing-block/" class="dropdown ">Pricing Block</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-1881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1881 nav-item"><a title="Works" href="https://smartdemowp.com/shelder/#" aria-haspopup="true" aria-expanded="false" id="1881">Works</a>
+<ul class="dropdown" aria-labelledby="1881" role="menu">
+<li id="menu-item-1882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1882 nav-item"><a title="Classic View" href="https://smartdemowp.com/shelder/project-01/" class="dropdown ">Classic View</a></li>
+<li id="menu-item-1887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1887 nav-item"><a title="Modern View" href="https://smartdemowp.com/shelder/project-02/" class="dropdown ">Modern View</a></li>
+<li id="menu-item-1886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1886 nav-item"><a title="Masonry Style 01" href="https://smartdemowp.com/shelder/project-03/" class="dropdown ">Masonry Style 01</a></li>
+<li id="menu-item-1885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1885 nav-item"><a title="Masonry Style 02" href="https://smartdemowp.com/shelder/project-04/" class="dropdown ">Masonry Style 02</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-356 nav-item"><a title="Blog" href="https://smartdemowp.com/shelder/news/" aria-haspopup="true" aria-expanded="false" id="356">Blog</a>
+<ul class="dropdown" aria-labelledby="356" role="menu">
+<li id="menu-item-1565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1565 nav-item"><a title="Blog Classic" href="https://smartdemowp.com/shelder/news/" class="dropdown ">Blog Classic</a></li>
+<li id="menu-item-1564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564 nav-item"><a title="Blog Grid" href="https://smartdemowp.com/shelder/news/?blog_type=2" class="dropdown ">Blog Grid</a></li>
+<li id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1967 nav-item"><a title="Blog Single" href="https://smartdemowp.com/shelder/protecting-your-roof-from-storm-damage/" class="dropdown ">Blog Single</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-2519 nav-item"><a title="Shop" href="https://smartdemowp.com/shelder/shop/" aria-haspopup="true" aria-expanded="false" id="2519">Shop</a>
+<ul class="dropdown" aria-labelledby="2519" role="menu">
+<li id="menu-item-2540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2540 nav-item"><a title="Products" href="https://smartdemowp.com/shelder/shop/" class="dropdown ">Products</a></li>
+<li id="menu-item-2541" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2541 nav-item"><a title="Product Single" href="https://smartdemowp.com/shelder/product/album/" class="dropdown ">Product Single</a></li>
+<li id="menu-item-2543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2543 nav-item"><a title="Shopping Cart" href="https://smartdemowp.com/shelder/cart/" class="dropdown ">Shopping Cart</a></li>
+<li id="menu-item-2542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2542 nav-item"><a title="Checkout" href="https://smartdemowp.com/shelder/checkout/" class="dropdown ">Checkout</a></li>
+<li id="menu-item-2537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2537 nav-item"><a title="My account" href="https://smartdemowp.com/shelder/my-account/" class="dropdown ">My account</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-355 nav-item"><a title="Contact" href="https://smartdemowp.com/shelder/contact-01/" aria-haspopup="true" aria-expanded="false" id="355">Contact</a>
+<ul class="dropdown" aria-labelledby="355" role="menu">
+<li id="menu-item-2020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2020 nav-item"><a title="Contact 01" href="https://smartdemowp.com/shelder/contact-01/" class="dropdown ">Contact 01</a></li>
+<li id="menu-item-2021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 nav-item"><a title="Contact 02" href="https://smartdemowp.com/shelder/contact-02/" class="dropdown ">Contact 02</a></li>
+</ul>
+<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
+</ul> </div>
+</div>
+<div class="contact-info">
+<h4>Contact Info</h4>
+<ul>
+<li>20 Reynolds Neck Str-50121</li>
+<li><a href="tel:+21-555-44-1234"> +21-555-44-1234 </a></li>
+<li><a href="mailto:needhelp@shelder.com"> needhelp@shelder.com </a></li>
+</ul>
+</div>
+<div class="social-links">
+<ul class="clearfix">
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-linkedin-in"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/"><i class="fab fa-youtube"></i></a></li> </ul>
+</div>
+</div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 0px; height: 0px; top: 0px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 0px;"></div><div class="mCSB_draggerRail"></div></div></div></div></div></nav>
+</div>
+
+<div class="page-content">
+<div class="container">
+<div class="row">
+
+<div class="content-side col-lg-12 col-md-12 col-sm-12">
+<article id="post-15" class="post-15 page type-page status-publish hentry">
+<div class="page-content">
+<div data-elementor-type="wp-page" data-elementor-id="15" class="elementor elementor-15">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-9cc0831 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="9cc0831" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-15da3f5" data-id="15da3f5" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-7dce1eb elementor-widget elementor-widget-slider_banner" data-id="7dce1eb" data-element_type="widget" data-widget_type="slider_banner.default">
+<div class="elementor-widget-container">
+
+<section class="banner-section">
+<div class="banner-carousel owl-theme owl-carousel owl-nav-none owl-loaded owl-drag">
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-3360px, 0px, 0px); transition: all 0s ease 0s; width: 11760px;"><div class="owl-item cloned" style="width: 1680px;"><div class="slide-item bg-left">
+<div class="image-layer" style="background-image:url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/banner-2.jpg)"></div>
+<div class="auto-container">
+<div class="row clearfix">
+<div class="col-xl-8 col-lg-12 col-md-12 content-column">
+<div class="content-box">
+<h6>Best in-country</h6>
+<h1>We are Commercial Roofing Experts in USA</h1>
+<p>With More than four decades of proven success in roofing <br>services, Reliable Roofing &amp; Retro-Fit.</p>
+<div class="btn-box">
+<a href="https://smartdemowp.com/shelder/about-us/" target="_blank" rel="nofollow" class="theme-btn">About Our Company<i class="flaticon-login"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item cloned animated owl-animated-out fadeOut" style="width: 1680px; left: 1680px;"><div class="slide-item bg-left">
+<div class="image-layer" style="background-image:url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/banner-3.jpg)"></div>
+<div class="auto-container">
+<div class="row clearfix">
+<div class="col-xl-8 col-lg-12 col-md-12 content-column">
+<div class="content-box">
+<h6>Best in-country</h6>
+<h1>Cost Effective Commercial Services</h1>
+<p>Preventative maintenance, precise repair work, roof restoration <br>utilizing silicone coatings, recovers, and replacements.</p>
+<div class="btn-box">
+<a href="https://smartdemowp.com/shelder/about-us/" target="_blank" rel="nofollow" class="theme-btn">About Our Company<i class="flaticon-login"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item animated owl-animated-in fadeIn active" style="width: 1680px;"><div class="slide-item ">
+<div class="image-layer" style="background-image:url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/banner-1.jpg)"></div>
+<div class="auto-container">
+<div class="row clearfix">
+<div class="col-xl-6 col-lg-12 col-md-12 offset-xl-6 content-column">
+<div class="content-box">
+<h6>Best in-country</h6>
+<h1>Reliable Roofing <span>and Retro-fit.</span></h1>
+<p>With More than four decades of proven success in roofing services, Reliable Roofing &amp; Retro-Fit.</p>
+<div class="btn-box">
+<a href="https://smartdemowp.com/shelder/about-us/" target="_blank" rel="nofollow" class="theme-btn">About Our Company<i class="flaticon-login"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1680px;"><div class="slide-item bg-left">
+<div class="image-layer" style="background-image:url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/banner-2.jpg)"></div>
+<div class="auto-container">
+<div class="row clearfix">
+<div class="col-xl-8 col-lg-12 col-md-12 content-column">
+<div class="content-box">
+<h6>Best in-country</h6>
+<h1>We are Commercial Roofing Experts in USA</h1>
+<p>With More than four decades of proven success in roofing <br>services, Reliable Roofing &amp; Retro-Fit.</p>
+<div class="btn-box">
+<a href="https://smartdemowp.com/shelder/about-us/" target="_blank" rel="nofollow" class="theme-btn">About Our Company<i class="flaticon-login"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1680px;"><div class="slide-item bg-left">
+<div class="image-layer" style="background-image:url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/banner-3.jpg)"></div>
+<div class="auto-container">
+<div class="row clearfix">
+<div class="col-xl-8 col-lg-12 col-md-12 content-column">
+<div class="content-box">
+<h6>Best in-country</h6>
+<h1>Cost Effective Commercial Services</h1>
+<p>Preventative maintenance, precise repair work, roof restoration <br>utilizing silicone coatings, recovers, and replacements.</p>
+<div class="btn-box">
+<a href="https://smartdemowp.com/shelder/about-us/" target="_blank" rel="nofollow" class="theme-btn">About Our Company<i class="flaticon-login"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1680px;"><div class="slide-item ">
+<div class="image-layer" style="background-image:url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/banner-1.jpg)"></div>
+<div class="auto-container">
+<div class="row clearfix">
+<div class="col-xl-6 col-lg-12 col-md-12 offset-xl-6 content-column">
+<div class="content-box">
+<h6>Best in-country</h6>
+<h1>Reliable Roofing <span>and Retro-fit.</span></h1>
+<p>With More than four decades of proven success in roofing services, Reliable Roofing &amp; Retro-Fit.</p>
+<div class="btn-box">
+<a href="https://smartdemowp.com/shelder/about-us/" target="_blank" rel="nofollow" class="theme-btn">About Our Company<i class="flaticon-login"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1680px;"><div class="slide-item bg-left">
+<div class="image-layer" style="background-image:url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/banner-2.jpg)"></div>
+<div class="auto-container">
+<div class="row clearfix">
+<div class="col-xl-8 col-lg-12 col-md-12 content-column">
+<div class="content-box">
+<h6>Best in-country</h6>
+<h1>We are Commercial Roofing Experts in USA</h1>
+<p>With More than four decades of proven success in roofing <br>services, Reliable Roofing &amp; Retro-Fit.</p>
+<div class="btn-box">
+<a href="https://smartdemowp.com/shelder/about-us/" target="_blank" rel="nofollow" class="theme-btn">About Our Company<i class="flaticon-login"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div></div><div class="owl-nav"><div class="owl-prev"><span class="fa fa-angle-left"></span></div><div class="owl-next"><span class="fa fa-angle-right"></span></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-ca89727 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="ca89727" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e555e28" data-id="e555e28" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-c7d05b7 elementor-widget elementor-widget-booking_form" data-id="c7d05b7" data-element_type="widget" data-widget_type="booking_form.default">
+<div class="elementor-widget-container">
+
+<section class="booking-section ">
+<div class="auto-container">
+<div class="inner-box">
+<div class="upper-box clearfix">
+<div class="title-inner pull-left">
+<h2>Book Roofing Inspection</h2> <p><span>*</span>Your roof will require some professional attention for long live.</p>
+</div>
+<div class="link-box pull-right">
+<a href="https://smartdemowp.com/shelder/contact-02/">Get call back from us<i class="fas fa-angle-right"></i></a>
+</div>
+</div>
+<div role="form" class="wpcf7" id="wpcf7-f1647-p15-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="https://smartdemowp.com/shelder/#wpcf7-f1647-p15-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1647">
+<input type="hidden" name="_wpcf7_version" value="5.6.4">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1647-p15-o1">
+<input type="hidden" name="_wpcf7_container_post" value="15">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<div class="booking-form">
+<div class="row clearfix">
+<div class="col-lg-4 col-md-6 col-sm-12 form-group">
+<div class="field-input"><i class="far fa-user"></i><span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name"></span></div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 form-group">
+<div class="field-input"><i class="fas fa-headphones"></i><span class="wpcf7-form-control-wrap" data-name="phone"><input type="text" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone"></span></div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 form-group">
+<div class="field-input"><i class="fas fa-map-marker-alt"></i><span class="wpcf7-form-control-wrap" data-name="address"><input type="text" name="address" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Address"></span></div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 form-group">
+<div class="field-input"><i class="far fa-calendar-alt"></i><span class="wpcf7-form-control-wrap" data-name="date"><input type="text" name="date" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required hasDatepicker" id="datepicker" aria-required="true" aria-invalid="false" placeholder="Inspection Date"></span></div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 form-group">
+<div class="field-input"><i class="far fa-clock"></i><span class="wpcf7-form-control-wrap" data-name="time"><input type="text" name="time" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required hasPtTimeSelect" aria-required="true" aria-invalid="false" placeholder="Comfortable Time"></span></div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 form-group message-btn"><button type="submit" class="theme-btn">Book for Inspection<i class="flaticon-login"></i></button></div>
+</div>
+</div>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div> </div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-e91fc49 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="e91fc49" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-115d833" data-id="115d833" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-b1ea349 elementor-widget elementor-widget-Shelder_About_Company" data-id="b1ea349" data-element_type="widget" data-widget_type="Shelder_About_Company.default">
+<div class="elementor-widget-container">
+<section class="about-section">
+<div class="image-layer" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/shape-2.png);"></div>
+<div class="auto-container">
+<div class="row clearfix">
+<div class="col-lg-6 col-md-12 col-sm-12 image-column">
+<div id="image_block_one">
+<div class="image-box">
+<div class="pattern-layer" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/shape-1.png);"></div>
+<figure class="image image-1"><img src="./01_files/about-1.jpg" title="about-1" alt="about-1"></figure>
+<figure class="image image-2"><img src="./01_files/about-2.jpg" title="about-2" alt="about-2"></figure>
+<figure class="image image-3">
+<img src="./01_files/about-1.png" alt="" class="rotate-me">
+<i class="flaticon-roof-1"></i>
+</figure>
+</div>
+</div>
+</div>
+<div class="col-lg-6 col-md-12 col-sm-12 content-column">
+<div id="content_block_one">
+<div class="content-box">
+<div class="sec-title">
+<h6><i class="flaticon-roof"></i>ABOUT COMPANY</h6>
+<h2>Professional <br><span>Roofing Contractors</span></h2> </div>
+<div class="text">
+<p>With more than four decades of proven success in quality roofing services, Shelder Roofing and Retro-Fit group is a family-owned &amp; operated business serving the greater San Fransisco area state. Our expert team has been dedicated to providing the best service and quality available in the area.</p>
+<p>Shelder Roofing &amp; Retro-Fit group is a family-owned &amp; operated business serving the greater San Fransisco. In 1991 we expanded our outstanding service lists, offering a variety of energy saving solutions that we had perfected over the coarse of the last 10 years.</p> </div>
+<div class="icon_box_outer clearfix">
+<div class="icon_box style_one">
+<img src="./01_files/icon-box-style-1.png" class="img-fluid" alt="img">
+<div class="text_box">
+<h2><a href="https://smartdemowp.com/shelder/#">Certified Company</a></h2>
+<p>ISO 9001:2015.</p> </div>
+</div>
+<div class="icon_box style_one">
+<span class="flaticon-technology icon"></span>
+<div class="text_box">
+<h2><a href="https://smartdemowp.com/shelder/#">Call for Quality Services </a></h2>
+<p>1800-555-6677</p> </div>
+</div>
+</div>
+<div class="btn-box clearfix">
+<a href="https://smartdemowp.com/shelder/about-us/" class="theme-btn">Read More<i class="flaticon-login"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-819ba92 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="819ba92" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b786526" data-id="b786526" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-38fff61 elementor-widget elementor-widget-shelder_facts" data-id="38fff61" data-element_type="widget" data-widget_type="shelder_facts.default">
+<div class="elementor-widget-container">
+<section class="funfact-section ">
+<div class="auto-container">
+<div class="inner-container clearfix wow fadeInLeft animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 0ms; animation-name: none;">
+<div class="counter-block-one">
+<div class="inner-box">
+<div class="icon-box">
+<i aria-hidden="true" class=" flaticon-roof-2"></i> </div>
+<div class="count-outer count-box counted">
+<span class="count-text" data-speed="1500" data-stop="2.5">2.5</span><span>k</span>
+</div>
+<h3>Projects Competed Successfully</h3>
+</div>
+</div>
+<div class="counter-block-one">
+<div class="inner-box">
+<div class="icon-box">
+<i aria-hidden="true" class=" flaticon-labor"></i> </div>
+<div class="count-outer count-box counted">
+<span class="count-text" data-speed="1500" data-stop="84">84</span><span></span>
+</div>
+<h3>Professional Workers in Company</h3>
+</div>
+</div>
+<div class="counter-block-one">
+<div class="inner-box">
+<div class="icon-box">
+<i aria-hidden="true" class=" flaticon-user"></i> </div>
+<div class="count-outer count-box counted">
+<span class="count-text" data-speed="1500" data-stop="12">12</span><span>+</span>
+</div>
+<h3>Customers Benefit Every Day</h3>
+</div>
+</div>
+<div class="counter-block-one">
+<div class="inner-box">
+<div class="icon-box">
+<i aria-hidden="true" class=" flaticon-medal"></i> </div>
+<div class="count-outer count-box counted">
+<span class="count-text" data-speed="1500" data-stop="05">05</span><span></span>
+</div>
+<h3>Received Awards &amp; Certifications</h3>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-56c7c3a elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="56c7c3a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4b2b13f" data-id="4b2b13f" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-95ab5b1 elementor-widget elementor-widget-service_01" data-id="95ab5b1" data-element_type="widget" data-widget_type="service_01.default">
+<div class="elementor-widget-container">
+<section class="service-section bg-color-1 ">
+<div class="auto-container">
+<div class="sec-title centred light">
+<h6><i class="flaticon-roof"></i>Our Services</h6>
+<h2>We Provide <br><span>Superior Roofing Services</span></h2>
+</div>
+<div class="row clearfix">
+<div class="col-lg-4 col-md-6 col-sm-12 service-block">
+<div class="service-block-one wow fadeInUp animated animated" data-wow-delay="100ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 100ms; animation-name: none;">
+<div class="inner-box">
+<figure class="image-box">
+<a href="https://smartdemowp.com/shelder/services/single-ply-roofing/"><img src="./01_files/service-1.jpg" title="service-1" alt="service-1"></a>
+<div class="icon-box">
+<i aria-hidden="true" class=" flaticon-roof-3"></i> </div>
+</figure>
+<div class="lower-content">
+<div class="lower_box">
+<h3><a href="https://smartdemowp.com/shelder/services/single-ply-roofing/">Single Ply Roofing</a></h3>
+<p>Except too obtain some advantages which of us ever undertakes.</p>
+<div class="link"><a href="https://smartdemowp.com/shelder/services/single-ply-roofing/">Read More<i class="flaticon-login"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 service-block">
+<div class="service-block-one wow fadeInUp animated animated" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 400ms; animation-name: none;">
+<div class="inner-box">
+<figure class="image-box">
+<a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/"><img src="./01_files/service-2.jpg" title="service-2" alt="service-2"></a>
+<div class="icon-box">
+<i aria-hidden="true" class=" flaticon-roof-4"></i> </div>
+</figure>
+<div class="lower-content">
+<div class="lower_box">
+<h3><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Modified Roofing</a></h3>
+<p>Our power off choice when nothing prevents our being able.</p>
+<div class="link"><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Read More<i class="flaticon-login"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 service-block">
+<div class="service-block-one wow fadeInUp animated animated" data-wow-delay="700ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 700ms; animation-name: none;">
+<div class="inner-box">
+<figure class="image-box">
+<a href="https://smartdemowp.com/shelder/services/built-up-roofing/"><img src="./01_files/service-3.jpg" title="service-3" alt="service-3"></a>
+<div class="icon-box">
+<i aria-hidden="true" class=" flaticon-roof-5"></i> </div>
+</figure>
+<div class="lower-content">
+<div class="lower_box">
+<h3><a href="https://smartdemowp.com/shelder/services/built-up-roofing/">Built-Up Roofing</a></h3>
+<p>Obligations of business it will occur have to be repudiated it.</p>
+<div class="link"><a href="https://smartdemowp.com/shelder/services/built-up-roofing/">Read More<i class="flaticon-login"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-b4aa341 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b4aa341" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-106924c" data-id="106924c" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-1f6cb66 elementor-widget elementor-widget-why_choose" data-id="1f6cb66" data-element_type="widget" data-widget_type="why_choose.default">
+<div class="elementor-widget-container">
+<section class="chooseus-section">
+<figure class="image-layer wow slideInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 0ms; animation-name: none;"><img src="./01_files/worker-2.png" title="worker-2" alt="worker-2"></figure>
+<div class="pattern-layer" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/shape-3.png);"></div>
+<div class="auto-container">
+<div class="sec-title">
+<h6><i class="flaticon-roof"></i>Why Choose Us</h6>
+<h2>Seven Reasons <br><span>For People Choosing Shelder</span></h2> </div>
+<div class="inner-content">
+<div class="content-box-one clearfix">
+<div class="single-item">
+<div class="inner-box">
+<div class="content-box">
+<figure class="icon-box"><img src="./01_files/icon-1.png" title="icon-1" alt="icon-1"></figure>
+<h4>Quality Material</h4>
+</div>
+<div class="overlay-box">
+<figure class="icon-box"><img src="./01_files/icon-5.png" title="icon-5" alt="icon-5"></figure>
+<p>Take trivial example ever undertakes.</p>
+</div>
+</div>
+</div>
+<div class="single-item">
+<div class="inner-box">
+<div class="content-box">
+<figure class="icon-box"><img src="./01_files/icon-2.png" title="icon-2" alt="icon-2"></figure>
+<h4>Accredited</h4>
+</div>
+<div class="overlay-box">
+<figure class="icon-box"><img src="./01_files/icon-6.png" title="icon-6" alt="icon-6"></figure>
+<p>Take trivial example ever undertakes.</p>
+</div>
+</div>
+</div>
+<div class="single-item">
+<div class="inner-box">
+<div class="content-box">
+<figure class="icon-box"><img src="./01_files/icon-3.png" title="icon-3" alt="icon-3"></figure>
+<h4>Trained Workers</h4>
+</div>
+<div class="overlay-box">
+<figure class="icon-box"><img src="./01_files/icon-7.png" title="icon-7" alt="icon-7"></figure>
+<p>Take trivial example ever undertakes.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="content-box-two clearfix">
+<div class="single-item">
+<div class="inner-box">
+<div class="content-box">
+<figure class="icon-box"><img src="./01_files/icon-1.png" title="icon-1" alt="icon-1"></figure>
+<h4>Accredited</h4>
+</div>
+<div class="overlay-box">
+<figure class="icon-box"><img src="./01_files/icon-5.png" title="icon-5" alt="icon-5"></figure>
+<p>Claims of duty or the obligations case.</p>
+</div>
+</div>
+</div>
+<div class="single-item">
+<div class="inner-box">
+<div class="content-box">
+<figure class="icon-box"><img src="./01_files/icon-2.png" title="icon-2" alt="icon-2"></figure>
+<h4>Quick Response</h4>
+</div>
+<div class="overlay-box">
+<figure class="icon-box"><img src="./01_files/icon-6.png" title="icon-6" alt="icon-6"></figure>
+<p>Claims of duty or the obligations case.</p>
+</div>
+</div>
+</div>
+<div class="single-item">
+<div class="inner-box">
+<div class="content-box">
+<figure class="icon-box"><img src="./01_files/icon-3.png" title="icon-3" alt="icon-3"></figure>
+<h4>Trained Workers</h4>
+</div>
+<div class="overlay-box">
+<figure class="icon-box"><img src="./01_files/icon-7.png" title="icon-7" alt="icon-7"></figure>
+<p>Claims of duty or the obligations case.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-3223521 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="3223521" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0aa2f37" data-id="0aa2f37" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-c7ce13f elementor-widget elementor-widget-latest_project" data-id="c7ce13f" data-element_type="widget" data-widget_type="latest_project.default">
+<div class="elementor-widget-container">
+<section class="project-section">
+<div class="auto-container">
+<div class="sec-title centred">
+<h6><i class="flaticon-roof"></i>Latest Projects</h6>
+<h2>Inspiration <br><span>on Your Next Project</span></h2> </div>
+<div class="row clearfix">
+<div class="col-lg-4 col-md-6 col-sm-12 project-block">
+<div class="project-block-one">
+<div class="inner-box">
+<figure class="image-box"><img src="./01_files/project-1.jpg" title="project-1" alt="project-1"></figure>
+<div class="lower-content">
+<div class="box">
+<h3><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Modern Pattern Style</a></h3>
+<p>Residential</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 project-block">
+<div class="project-block-one">
+<div class="inner-box">
+<figure class="image-box"><img src="./01_files/project-2.jpg" title="project-2" alt="project-2"></figure>
+<div class="lower-content">
+<div class="box">
+<h3><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Roof Installation</a></h3>
+<p>Commercial</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 project-block">
+<div class="project-block-one">
+<div class="inner-box">
+<figure class="image-box"><img src="./01_files/project-3.jpg" title="project-3" alt="project-3"></figure>
+<div class="lower-content">
+<div class="box">
+<h3><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Fixing Storm Damage</a></h3>
+<p>Residential</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 project-block">
+<div class="project-block-one">
+<div class="inner-box">
+<figure class="image-box"><img src="./01_files/project-4.jpg" title="project-4" alt="project-4"></figure>
+<div class="lower-content">
+<div class="box">
+<h3><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Winter Maintenance</a></h3>
+<p>Commercial</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 project-block">
+<div class="project-block-one">
+<div class="inner-box">
+<figure class="image-box"><img src="./01_files/project-5.jpg" title="project-5" alt="project-5"></figure>
+<div class="lower-content">
+<div class="box">
+<h3><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Low Rise Building</a></h3>
+<p>Commercial</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 project-block">
+<div class="project-block-one">
+<div class="inner-box">
+<figure class="image-box"><img src="./01_files/project-6.jpg" title="project-6" alt="project-6"></figure>
+<div class="lower-content">
+<div class="box">
+<h3><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Modern Pattern Style</a></h3>
+<p>Residential</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-4efbd39 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4efbd39" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5d80667" data-id="5d80667" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-db95439 elementor-widget elementor-widget-working_process" data-id="db95439" data-element_type="widget" data-widget_type="working_process.default">
+<div class="elementor-widget-container">
+<section class="working-section centred " style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/working-bg.jpg);">
+<div class="large-container">
+<div class="sec-title light">
+<h6><i class="flaticon-roof"></i>How it’s Work</h6>
+<h2>Standard <span>Working Process</span></h2> </div>
+<div class="inner-content">
+<div class="row clearfix">
+<div class="col-lg-3 col-md-6 col-sm-12 working-block">
+<div class="working-block-one">
+<div class="inner-box">
+<div class="icon-box">
+<span class="count-box">01</span>
+<div class="icon" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/icon-bg.png);">
+<i aria-hidden="true" class=" flaticon-consulting"></i> </div>
+</div>
+<div class="lower-content">
+<h3><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Consultation</a></h3>
+<div class="pattern-layer" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/line-4.png);"></div>
+<p>All the Lorem Ipsum generators on the Internet to repeat predefined chunks as necessary, making this true generator on the Internet.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-6 col-sm-12 working-block">
+<div class="working-block-one">
+<div class="inner-box">
+<div class="icon-box">
+<span class="count-box">02</span>
+<div class="icon" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/icon-bg.png);">
+<i aria-hidden="true" class=" flaticon-paper"></i> </div>
+</div>
+<div class="lower-content">
+<h3><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Detailed Proposal</a></h3>
+<div class="pattern-layer" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/line-4.png);"></div>
+<p>There are many variations passage of Lorem available, but the majority have suffered alteration in some form, by injected humour.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-6 col-sm-12 working-block">
+<div class="working-block-one">
+<div class="inner-box">
+<div class="icon-box">
+<span class="count-box">03</span>
+<div class="icon" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/icon-bg.png);">
+<i aria-hidden="true" class=" flaticon-steel"></i> </div>
+</div>
+<div class="lower-content">
+<h3><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Project Installation</a></h3>
+<div class="pattern-layer" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/line-4.png);"></div>
+<p>Contrary to popular belief, Lorem Ipsum is simply random text. It has roots piece classic Latin literature from making it years old. </p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-6 col-sm-12 working-block">
+<div class="working-block-one">
+<div class="inner-box">
+<div class="icon-box">
+<span class="count-box">04</span>
+<div class="icon" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/icon-bg.png);">
+<i aria-hidden="true" class=" flaticon-parcel"></i> </div>
+</div>
+<div class="lower-content">
+<h3><a href="https://smartdemowp.com/shelder/services/modified-bitumen-roofing/">Final Inspection</a></h3>
+<div class="pattern-layer" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/line-4.png);"></div>
+<p>Patrick &amp; the staff were extremely easy to work &amp; kept the project on schedule. The work was performed in a professionald.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-2322053 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2322053" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-96cdaf6" data-id="96cdaf6" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-866ec86 elementor-widget elementor-widget-team_01" data-id="866ec86" data-element_type="widget" data-widget_type="team_01.default">
+<div class="elementor-widget-container">
+<section class="team-section ">
+<div class="pattern-layer" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/shape-4.png);"></div>
+<div class="auto-container">
+<div class="sec-title">
+<h6><i class="flaticon-roof"></i>Expert Team</h6>
+<h2>Trained <span>Roofers Team</span></h2> <div class="btn-box"><a href="https://smartdemowp.com/shelder/team-01/" class="theme-btn">All Members<i class="flaticon-login"></i></a></div>
+</div>
+<div class="row clearfix">
+<div class="col-lg-4 col-md-6 col-sm-12 team-block">
+<div class="team-block-one wow fadeInUp animated animated" data-wow-delay="100ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 100ms; animation-name: none;">
+<div class="inner-box">
+<figure class="image-box">
+<img width="370" height="354" src="./01_files/team-1.jpg" class="attachment-full size-full" alt="" loading="lazy"> <div class="overlay-box">
+<ul class="social-links clearfix">
+<li><a href="https://smartdemowp.com/shelder/#"><span>Facebook</span><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><span>Twitter</span><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><span>Google</span><i class="fab fa-google-plus-g"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><span>Skype</span><i class="fab fa-skype"></i></a></li> </ul>
+</div>
+</figure>
+<div class="content-box">
+<span class="designation">Founder</span>
+<h3>Max Benjamin</h3>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 team-block">
+<div class="team-block-one wow fadeInUp animated animated" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 400ms; animation-name: none;">
+<div class="inner-box">
+<figure class="image-box">
+<img width="370" height="354" src="./01_files/team-2.jpg" class="attachment-full size-full" alt="" loading="lazy"> <div class="overlay-box">
+<ul class="social-links clearfix">
+<li><a href="https://smartdemowp.com/shelder/#"><span>Facebook</span><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><span>Twitter</span><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><span>Google</span><i class="fab fa-google-plus-g"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><span>Skype</span><i class="fab fa-skype"></i></a></li> </ul>
+</div>
+</figure>
+<div class="content-box">
+<span class="designation">Manager</span>
+<h3>Harley Reuben</h3>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 team-block">
+<div class="team-block-one wow fadeInUp animated animated" data-wow-delay="700ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 700ms; animation-name: none;">
+<div class="inner-box">
+<figure class="image-box">
+<img width="370" height="354" src="./01_files/team-3.jpg" class="attachment-full size-full" alt="" loading="lazy"> <div class="overlay-box">
+<ul class="social-links clearfix">
+<li><a href="https://smartdemowp.com/shelder/#"><span>Facebook</span><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><span>Twitter</span><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><span>Google</span><i class="fab fa-google-plus-g"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><span>Skype</span><i class="fab fa-skype"></i></a></li> </ul>
+</div>
+</figure>
+<div class="content-box">
+<span class="designation">Executive</span>
+<h3>Luke Stanley</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-6f642dd elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="6f642dd" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-854eb57" data-id="854eb57" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-951244f elementor-widget elementor-widget-repair_block" data-id="951244f" data-element_type="widget" data-widget_type="repair_block.default">
+<div class="elementor-widget-container">
+<section class="repair-section ">
+<div class="auto-container">
+<div class="inner-content">
+<div class="row clearfix">
+<div class="col-lg-6 col-md-6 col-sm-12 single-column">
+<div class="single-item">
+<div class="inner-box clearfix">
+<div class="content-box">
+<div class="icon-box"><i aria-hidden="true" class=" flaticon-house-repair"></i></div>
+<div class="light-icon"><i aria-hidden="true" class=" flaticon-house-repair"></i></div>
+<h3>Emergency Repair &amp; Service</h3>
+<h3><a href="tel:2188855666">+21 888 55 666</a></h3> </div>
+<figure class="image-box"><img src="./01_files/repair-1.jpg" title="repair-1" alt="repair-1"></figure>
+</div>
+</div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-12 single-column">
+<div class="single-item">
+<div class="inner-box clearfix">
+<div class="content-box">
+<div class="icon-box"><i aria-hidden="true" class=" flaticon-smile"></i></div>
+<div class="light-icon"><i aria-hidden="true" class=" flaticon-smile"></i></div>
+<div class="rating-box">
+<span>4.8</span>
+<h6>144 Reviews</h6>
+<ul class="rating clearfix">
+<li><i class="far fa-star"></i></li>
+<li><i class="far fa-star"></i></li>
+<li><i class="far fa-star"></i></li>
+<li><i class="far fa-star"></i></li>
+<li><i class="far fa-star"></i></li>
+</ul>
+</div>
+<h5><a href="https://smartdemowp.com/shelder/testimonials/">Read Feedback<i class="flaticon-login"></i></a></h5> </div>
+<figure class="image-box"><img src="./01_files/repair-2.jpg" title="repair-2" alt="repair-2"></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-d7aebb7 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="d7aebb7" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a32aca9" data-id="a32aca9" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-5fc02e3 elementor-widget elementor-widget-testimonial_01" data-id="5fc02e3" data-element_type="widget" data-widget_type="testimonial_01.default">
+<div class="elementor-widget-container">
+<section class="testimonial-section bg-color-2 ">
+<div class="auto-container">
+<div class="sec-title centred">
+<h6><i class="flaticon-roof"></i>Testimonials</h6>
+<h2>Impressive <br><span>Words from Customers</span></h2> </div>
+<div class="testimonial-inner">
+<div class="testimonial-carousel owl-carousel owl-theme owl-nav-none owl-dots-none owl-loaded owl-drag">
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1200px, 0px, 0px); transition: all 1s ease 0s; width: 3600px;"><div class="owl-item cloned" style="width: 400px;"><div class="testimonial-content">
+<div class="inner-box">
+<figure class="image-box">
+<img src="./01_files/testimonial-1.png" title="testimonial-1" alt="testimonial-1"> <i class="flaticon-writer"></i>
+</figure>
+<ul class="rating-box clearfix">
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+</ul>
+<p>Entire crew was very professional, went above and beyond in service Roof looked great when it was finished.</p>
+<h3>Max Benjamin, <span>Los Angeles</span></h3>
+</div>
+</div></div><div class="owl-item cloned" style="width: 400px;"><div class="testimonial-content">
+<div class="inner-box">
+<figure class="image-box">
+<img src="./01_files/testimonial-2.png" title="testimonial-2" alt="testimonial-2"> <i class="flaticon-writer"></i>
+</figure>
+<ul class="rating-box clearfix">
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+</ul>
+<p>Patrick &amp; the staff were extremely easy to work &amp; kept the project on schedule. The work was performed in a professional manner.</p>
+<h3>Rory Caleb, <span>Philadelphia</span></h3>
+</div>
+</div></div><div class="owl-item cloned" style="width: 400px;"><div class="testimonial-content">
+<div class="inner-box">
+<figure class="image-box">
+<img src="./01_files/testimonial-3.png" title="testimonial-3" alt="testimonial-3"> <i class="flaticon-writer"></i>
+</figure>
+<ul class="rating-box clearfix">
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+</ul>
+<p>Im very Happy. Mike did a super job. I will be having for some more work later this summer on my sky lights. we recommend shelder.</p>
+<h3>Jasper Kai, <span>San Antonia</span></h3>
+</div>
+</div></div><div class="owl-item active" style="width: 400px;"><div class="testimonial-content">
+<div class="inner-box">
+<figure class="image-box">
+<img src="./01_files/testimonial-1.png" title="testimonial-1" alt="testimonial-1"> <i class="flaticon-writer"></i>
+</figure>
+<ul class="rating-box clearfix">
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+</ul>
+<p>Entire crew was very professional, went above and beyond in service Roof looked great when it was finished.</p>
+<h3>Max Benjamin, <span>Los Angeles</span></h3>
+</div>
+</div></div><div class="owl-item active" style="width: 400px;"><div class="testimonial-content">
+<div class="inner-box">
+<figure class="image-box">
+<img src="./01_files/testimonial-2.png" title="testimonial-2" alt="testimonial-2"> <i class="flaticon-writer"></i>
+</figure>
+<ul class="rating-box clearfix">
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+</ul>
+<p>Patrick &amp; the staff were extremely easy to work &amp; kept the project on schedule. The work was performed in a professional manner.</p>
+<h3>Rory Caleb, <span>Philadelphia</span></h3>
+</div>
+</div></div><div class="owl-item active" style="width: 400px;"><div class="testimonial-content">
+<div class="inner-box">
+<figure class="image-box">
+<img src="./01_files/testimonial-3.png" title="testimonial-3" alt="testimonial-3"> <i class="flaticon-writer"></i>
+</figure>
+<ul class="rating-box clearfix">
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+</ul>
+<p>Im very Happy. Mike did a super job. I will be having for some more work later this summer on my sky lights. we recommend shelder.</p>
+<h3>Jasper Kai, <span>San Antonia</span></h3>
+</div>
+</div></div><div class="owl-item cloned" style="width: 400px;"><div class="testimonial-content">
+<div class="inner-box">
+<figure class="image-box">
+<img src="./01_files/testimonial-1.png" title="testimonial-1" alt="testimonial-1"> <i class="flaticon-writer"></i>
+</figure>
+<ul class="rating-box clearfix">
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+</ul>
+<p>Entire crew was very professional, went above and beyond in service Roof looked great when it was finished.</p>
+<h3>Max Benjamin, <span>Los Angeles</span></h3>
+</div>
+</div></div><div class="owl-item cloned" style="width: 400px;"><div class="testimonial-content">
+<div class="inner-box">
+<figure class="image-box">
+<img src="./01_files/testimonial-2.png" title="testimonial-2" alt="testimonial-2"> <i class="flaticon-writer"></i>
+</figure>
+<ul class="rating-box clearfix">
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+</ul>
+<p>Patrick &amp; the staff were extremely easy to work &amp; kept the project on schedule. The work was performed in a professional manner.</p>
+<h3>Rory Caleb, <span>Philadelphia</span></h3>
+</div>
+</div></div><div class="owl-item cloned" style="width: 400px;"><div class="testimonial-content">
+<div class="inner-box">
+<figure class="image-box">
+<img src="./01_files/testimonial-3.png" title="testimonial-3" alt="testimonial-3"> <i class="flaticon-writer"></i>
+</figure>
+<ul class="rating-box clearfix">
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+</ul>
+<p>Im very Happy. Mike did a super job. I will be having for some more work later this summer on my sky lights. we recommend shelder.</p>
+<h3>Jasper Kai, <span>San Antonia</span></h3>
+</div>
+</div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><span class="fas fa-arrow-left"></span></div><div class="owl-next"><span class="fas fa-arrow-right"></span></div></div><div class="owl-dots disabled"><div class="owl-dot active"><span></span></div></div></div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-8d34180 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="8d34180" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6d2a802" data-id="6d2a802" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-85908cc elementor-widget elementor-widget-shelder_blog" data-id="85908cc" data-element_type="widget" data-widget_type="shelder_blog.default">
+<div class="elementor-widget-container">
+<section class="news-section">
+<div class="auto-container">
+<div class="sec-title">
+<h6><i class="flaticon-roof"></i>News &amp; Updates</h6>
+<h2>Latest <span>News &amp; Updates</span></h2>
+<div class="btn-box"><a href="https://smartdemowp.com/shelder/news/?blog_type=2" class="theme-btn">Read More<i class="flaticon-login"></i></a></div>
+</div>
+<div class="row clearfix">
+<div class="col-lg-4 col-md-6 col-sm-12 news-block">
+<div class="news-block-one wow fadeInUp animated animated" data-wow-delay="100ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 100ms; animation-name: none;">
+<div class="inner-box">
+<figure class="image-box">
+<img loading="lazy" width="370" height="250" src="./01_files/news-10-370x250.jpg" class="attachment-shelder-blog-grid size-shelder-blog-grid wp-post-image" alt=""> <a href="https://smartdemowp.com/shelder/protecting-your-roof-from-storm-damage/" class="link"><i class="fas fa-link"></i></a>
+<div class="category"><p><i class="far fa-folder"></i>
+Events </p></div>
+</figure>
+<div class="lower-content">
+<div class="upper-box">
+<h3><a href="https://smartdemowp.com/shelder/protecting-your-roof-from-storm-damage/">Protecting Your Roof From Storm Damage</a></h3>
+<ul class="post-info clearfix">
+<li><i class="far fa-calendar"></i>Mar 23, 2020</li>
+<li><i class="far fa-user"></i><a href="https://smartdemowp.com/shelder/protecting-your-roof-from-storm-damage/">admin</a></li>
+</ul>
+<p>
+Foresee the pain &amp; trouble that are bound too ensue equalidea off deno... </p>
+<a href="https://smartdemowp.com/shelder/protecting-your-roof-from-storm-damage/" class="read_m"><span>Read More</span><i class="flaticon-login"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 news-block">
+<div class="news-block-one wow fadeInUp animated animated" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 400ms; animation-name: none;">
+<div class="inner-box">
+<figure class="image-box">
+<img width="370" height="250" src="./01_files/news-11-370x250.jpg" class="attachment-shelder-blog-grid size-shelder-blog-grid wp-post-image" alt="" loading="lazy"> <a href="https://smartdemowp.com/shelder/3-dangers-your-roof-might-face-this-winter/" class="link"><i class="fas fa-link"></i></a>
+<div class="category"><p><i class="far fa-folder"></i>
+News </p></div>
+</figure>
+<div class="lower-content">
+<div class="upper-box">
+<h3><a href="https://smartdemowp.com/shelder/3-dangers-your-roof-might-face-this-winter/">3 Dangers Your Roof Might Face This Winter</a></h3>
+<ul class="post-info clearfix">
+<li><i class="far fa-calendar"></i>Mar 23, 2020</li>
+<li><i class="far fa-user"></i><a href="https://smartdemowp.com/shelder/3-dangers-your-roof-might-face-this-winter/">admin</a></li>
+</ul>
+<p>
+Our power of choice when nothing prevents our we like best prevents o... </p>
+<a href="https://smartdemowp.com/shelder/3-dangers-your-roof-might-face-this-winter/" class="read_m"><span>Read More</span><i class="flaticon-login"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12 news-block">
+<div class="news-block-one wow fadeInUp animated animated" data-wow-delay="700ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 700ms; animation-name: none;">
+<div class="inner-box">
+<figure class="image-box">
+<img width="370" height="250" src="./01_files/news-12-370x250.jpg" class="attachment-shelder-blog-grid size-shelder-blog-grid wp-post-image" alt="" loading="lazy"> <a href="https://smartdemowp.com/shelder/why-roofing-material-warrenties-is-important/" class="link"><i class="fas fa-link"></i></a>
+<div class="category"><p><i class="far fa-folder"></i>
+News </p></div>
+</figure>
+<div class="lower-content">
+<div class="upper-box">
+<h3><a href="https://smartdemowp.com/shelder/why-roofing-material-warrenties-is-important/">Why Roofing Material Warrenties is Important?</a></h3>
+<ul class="post-info clearfix">
+<li><i class="far fa-calendar"></i>Mar 23, 2020</li>
+<li><i class="far fa-user"></i><a href="https://smartdemowp.com/shelder/why-roofing-material-warrenties-is-important/">admin</a></li>
+</ul>
+<p>
+Foresee the pain &amp; trouble that are bound too ensue equalidea off deno... </p>
+<a href="https://smartdemowp.com/shelder/why-roofing-material-warrenties-is-important/" class="read_m"><span>Read More</span><i class="flaticon-login"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-75f6337 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="75f6337" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fe34fc2" data-id="fe34fc2" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-9dc3ec2 elementor-widget elementor-widget-shelder_brochure" data-id="9dc3ec2" data-element_type="widget" data-widget_type="shelder_brochure.default">
+<div class="elementor-widget-container">
+<section class="brochure-section bg-color-1">
+<div class="pattern-layer">
+<div class="pattern-1" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/shape-5.png);"></div>
+<div class="pattern-2" style="background-image: url(https://smartdemowp.com/shelder/wp-content/uploads/2020/06/shape-6.png);"></div>
+</div>
+<figure class="image-layer wow slideInRight animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 0ms; animation-name: none;">
+<img src="./01_files/house-1.png" title="house-1" alt="house-1"></figure>
+<div class="auto-container">
+<div class="row clearfix align-items-center">
+<div class="col-lg-3 col-md-12 col-sm-12 image-column">
+<figure class="image-box">
+<img src="./01_files/house-1.jpg" title="house-1" alt="house-1"> <h3>Roof <br>Collections</h3>
+</figure>
+</div>
+<div class="col-xl-4 col-lg-9 col-sm-12 content-column">
+<div id="content_block_two">
+<div class="content-box">
+<div class="sec-title light">
+<h6><i class="flaticon-roof"></i>Our Brochure</h6>
+<h2>Economical <br><span>Roof Collections</span></h2> </div>
+<div class="subscribe-form">
+<div role="form" class="wpcf7" id="wpcf7-f2580-p15-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="https://smartdemowp.com/shelder/#wpcf7-f2580-p15-o2" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="2580">
+<input type="hidden" name="_wpcf7_version" value="5.6.4">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2580-p15-o2">
+<input type="hidden" name="_wpcf7_container_post" value="15">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<div class="form-group"><span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address ..."></span><button class="wpcf7-form-control wpcf7-submit" type="submit"><i class="flaticon-send"></i></button></div>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div> </div>
+<div class="download-btn">
+<h5><a href="https://smartdemowp.com/shelder/#" class="" target="_blank" rel="nofollow"><i class="flaticon-down-arrow"></i>Direct Download</a></h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-b0ec727 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b0ec727" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1465bb8" data-id="1465bb8" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-012d926 elementor-widget elementor-widget-brand_slider" data-id="012d926" data-element_type="widget" data-widget_type="brand_slider.default">
+<div class="elementor-widget-container">
+<section class="clients-section centred">
+<div class="auto-container">
+<div class="sec-title">
+<h6><i class="flaticon-roof"></i>Our Partners</h6>
+<h2>Companies <br><span>We Have Worked With</span></h2> </div>
+<div class="clients-carousel owl-carousel owl-theme owl-nav-none owl-loaded owl-drag">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2640px, 0px, 0px); transition: all 3s ease 0s; width: 7440px;"><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-3.png" title="clients-logo-3" alt="clients-logo-3"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-4.png" title="clients-logo-4" alt="clients-logo-4"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-5.png" title="clients-logo-5" alt="clients-logo-5"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-1.png" title="clients-logo-1" alt="clients-logo-1"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-2.png" title="clients-logo-2" alt="clients-logo-2"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-3.png" title="clients-logo-3" alt="clients-logo-3"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-4.png" title="clients-logo-4" alt="clients-logo-4"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-5.png" title="clients-logo-5" alt="clients-logo-5"></a>
+</figure></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-1.png" title="clients-logo-1" alt="clients-logo-1"></a>
+</figure></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-2.png" title="clients-logo-2" alt="clients-logo-2"></a>
+</figure></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-3.png" title="clients-logo-3" alt="clients-logo-3"></a>
+</figure></div><div class="owl-item active" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-4.png" title="clients-logo-4" alt="clients-logo-4"></a>
+</figure></div><div class="owl-item active" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-5.png" title="clients-logo-5" alt="clients-logo-5"></a>
+</figure></div><div class="owl-item active" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-1.png" title="clients-logo-1" alt="clients-logo-1"></a>
+</figure></div><div class="owl-item active" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-2.png" title="clients-logo-2" alt="clients-logo-2"></a>
+</figure></div><div class="owl-item active" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-3.png" title="clients-logo-3" alt="clients-logo-3"></a>
+</figure></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-4.png" title="clients-logo-4" alt="clients-logo-4"></a>
+</figure></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-5.png" title="clients-logo-5" alt="clients-logo-5"></a>
+</figure></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-1.png" title="clients-logo-1" alt="clients-logo-1"></a>
+</figure></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-2.png" title="clients-logo-2" alt="clients-logo-2"></a>
+</figure></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-3.png" title="clients-logo-3" alt="clients-logo-3"></a>
+</figure></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-4.png" title="clients-logo-4" alt="clients-logo-4"></a>
+</figure></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="http:"><img src="./01_files/clients-logo-5.png" title="clients-logo-5" alt="clients-logo-5"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-1.png" title="clients-logo-1" alt="clients-logo-1"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-2.png" title="clients-logo-2" alt="clients-logo-2"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-3.png" title="clients-logo-3" alt="clients-logo-3"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-4.png" title="clients-logo-4" alt="clients-logo-4"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-5.png" title="clients-logo-5" alt="clients-logo-5"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-1.png" title="clients-logo-1" alt="clients-logo-1"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-2.png" title="clients-logo-2" alt="clients-logo-2"></a>
+</figure></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><figure class="clients-logo-box">
+<a href="https://smartdemowp.com/shelder/#" target="target=" _blank""=""><img src="./01_files/clients-logo-3.png" title="clients-logo-3" alt="clients-logo-3"></a>
+</figure></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><span class="flaticon-left"></span></div><div class="owl-next"><span class="flaticon-right"></span></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-2f1b8dc elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2f1b8dc" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1680px; left: -270px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d31c51a" data-id="d31c51a" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-b9dca88 elementor-widget elementor-widget-text-editor" data-id="b9dca88" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<section class="google-map-section">
+<div class="google-map-area">
+<div class="mapouter">
+<div class="gmap_canvas"><iframe id="gmap_canvas" src="./01_files/maps.html"></iframe></div>
+</div>
+</div>
+</section> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+ </div>
+</article> </div>
+</div>
+</div>
+</div>
+<footer class="main-footer style-one">
+<div class="footer-top bg-color-1">
+<figure class="image-layer wow slideInLeft animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 0ms; animation-name: none;"><img width="550" height="347" src="./01_files/house-2.png" class="attachment-full size-full" alt=""></figure>
+<div class="auto-container">
+<div class="widget-section">
+<div class="pattern-scale"></div>
+<div data-elementor-type="page" data-elementor-id="360" class="elementor elementor-360">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-b7691cc row elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b7691cc" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-de166ee col-lg-4 col-md-6 col-sm-12 footer-column" data-id="de166ee" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-215d0e9 elementor-widget elementor-widget-shelder_newsletter" data-id="215d0e9" data-element_type="widget" data-widget_type="shelder_newsletter.default">
+<div class="elementor-widget-container">
+<div class="footer-widget logo-widget">
+<div class="footer-logo">
+<figure class="logo"><a href="https://smartdemowp.com/shelder/"><img src="./01_files/logo(1).png" title="logo" alt="logo"></a></figure>
+</div>
+<div class="text">
+<p>Shelder Roofing &amp; Retro-Fit is a family owned, operated business serving the greater Los Angeles area since 2000.</p>
+</div>
+<div class="subscribe-box">
+<h4>Subscribe Us</h4>
+<div class="subscribe-form">
+<div role="form" class="wpcf7" id="wpcf7-f2580-o3" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="https://smartdemowp.com/shelder/#wpcf7-f2580-o3" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="2580">
+<input type="hidden" name="_wpcf7_version" value="5.6.4">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2580-o3">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<div class="form-group"><span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address ..."></span><button class="wpcf7-form-control wpcf7-submit" type="submit"><i class="flaticon-send"></i></button></div>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-03aa10c col-lg-4 col-md-6 col-sm-12 footer-column" data-id="03aa10c" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-f4f04aa elementor-widget elementor-widget-html" data-id="f4f04aa" data-element_type="widget" data-widget_type="html.default">
+<div class="elementor-widget-container">
+<div class="footer-widget links-widget">
+<div class="widget-title">
+<div class="pattern-layer"></div>
+<h3>Useful Links</h3>
+</div>
+<div class="widget-content clearfix">
+<ul class="list clearfix">
+<li><a href="https://smartdemowp.com/shelder/">Home</a></li>
+<li><a href="https://smartdemowp.com/shelder/about-us/">About Us</a></li>
+<li><a href="https://smartdemowp.com/shelder/news/">Blog</a></li>
+<li><a href="https://smartdemowp.com/shelder/working-process/">Process</a></li>
+<li><a href="https://smartdemowp.com/shelder/our-services/">Services</a></li>
+<li><a href="https://smartdemowp.com/shelder/team-01/">Team</a></li>
+<li><a href="https://smartdemowp.com/shelder/testimonials/">Testimonials</a></li>
+</ul>
+<ul class="list clearfix">
+<li><a href="https://smartdemowp.com/shelder/#">Brochures</a></li>
+<li><a href="https://smartdemowp.com/shelder/contact-01/">Contact</a></li>
+<li><a href="https://smartdemowp.com/shelder/faqs/">FAQ’s</a></li>
+<li><a href="https://smartdemowp.com/shelder/#">Policies</a></li>
+<li><a href="https://smartdemowp.com/shelder/#">Policies</a></li>
+<li><a href="https://smartdemowp.com/shelder/pricing-block/">Price List</a></li>
+<li><a href="https://smartdemowp.com/shelder/#">Sitemap</a></li>
+</ul>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b966d90 col-lg-4 col-md-6 col-sm-12 footer-column" data-id="b966d90" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-63b67e9 footer-widget post-widget elementor-widget elementor-widget-wp-widget-recent_posts" data-id="63b67e9" data-element_type="widget" data-widget_type="wp-widget-recent_posts.default">
+<div class="elementor-widget-container">
+<div class="widget-title">
+<div class="pattern-layer"></div>
+<h3> Popular Post</h3>
+</div>
+<div class="widget-content">
+<div class="post-inner">
+<div class="post">
+<figure class="image-box"><a href="https://smartdemowp.com/shelder/protecting-your-roof-from-storm-damage/"><img width="80" height="80" src="./01_files/news-10-80x80.jpg" class="attachment-shelder-post-sidebar size-shelder-post-sidebar wp-post-image" alt="" loading="lazy"></a></figure>
+<h4><a href="https://smartdemowp.com/shelder/protecting-your-roof-from-storm-damage/">Protecting Your Roof From Storm Damage</a></h4>
+<span class="post-date"><i class="far fa-calendar"></i>March 23, 2020</span>
+</div>
+<div class="post">
+<figure class="image-box"><a href="https://smartdemowp.com/shelder/3-dangers-your-roof-might-face-this-winter/"><img width="80" height="80" src="./01_files/news-11-80x80.jpg" class="attachment-shelder-post-sidebar size-shelder-post-sidebar wp-post-image" alt="" loading="lazy"></a></figure>
+<h4><a href="https://smartdemowp.com/shelder/3-dangers-your-roof-might-face-this-winter/">3 Dangers Your Roof Might Face This Winter</a></h4>
+<span class="post-date"><i class="far fa-calendar"></i>March 23, 2020</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="auto-container">
+<div class="inner-box clearfix">
+<div class="copyright pull-left">
+<p>Copyright © 2020 All Rights Reserved by <a href="https://smartdemowp.com/shelder/#">Shelder</a>.</p>
+</div>
+<ul class="social-links pull-right">
+<li><a href="https://smartdemowp.com/shelder/#"><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><i class="fab fa-linkedin-in"></i></a></li>
+<li><a href="https://smartdemowp.com/shelder/#"><i class="fab fa-youtube"></i></a></li> </ul>
+</div>
+</div>
+</div>
+</footer>
+
+<button class="scroll-top scroll-to-target" data-target="html">
+<span class="flaticon-up-arrow"></span>
+</button>
+</div>
+<div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div><div id="ptTimeSelectCntr" class="">        <div class="ui-widget ui-widget-content ui-corner-all">        <div class="ui-widget-header ui-corner-all">            <div id="ptTimeSelectCloseCntr" style="float: right;">                <a href="javascript: void(0);" onclick="jQuery.ptTimeSelect.closeCntr();" onmouseover="jQuery(this).removeClass(&#39;ui-state-default&#39;).addClass(&#39;ui-state-hover&#39;);" onmouseout="jQuery(this).removeClass(&#39;ui-state-hover&#39;).addClass(&#39;ui-state-default&#39;);" class="ui-corner-all ui-state-default">                    <span class="ui-icon ui-icon-circle-close">X</span>                </a>            </div>            <div id="ptTimeSelectUserTime" style="float: left;">                <span id="ptTimeSelectUserSelHr">1</span> :                 <span id="ptTimeSelectUserSelMin">00</span>                 <span id="ptTimeSelectUserSelAmPm">AM</span>            </div>            <br style="clear: both;"><div></div>        </div>        <div class="ui-widget-content ui-corner-all">            <div>                <div class="ptTimeSelectTimeLabelsCntr">                    <div class="ptTimeSelectLeftPane" style="width: 50%; text-align: center; float: left;">Hour</div>                    <div class="ptTimeSelectRightPane" style="width: 50%; text-align: center; float: left;">Minutes</div>                </div>                <div>                    <div style="float: left; width: 50%;">                        <div class="ui-widget-content ptTimeSelectLeftPane">                            <div class="ptTimeSelectHrAmPmCntr">                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);" style="display: block; width: 45%; float: left;">AM</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);" style="display: block; width: 45%; float: left;">PM</a>                                <br style="clear: left;"><div></div>                            </div>                            <div class="ptTimeSelectHrCntr">                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">1</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">2</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">3</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">4</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">5</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">6</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">7</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">8</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">9</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">10</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">11</a>                                <a class="ptTimeSelectHr ui-state-default" href="javascript: void(0);">12</a>                                <br style="clear: left;"><div></div>                            </div>                        </div>                    </div>                    <div style="width: 50%; float: left;">                        <div class="ui-widget-content ptTimeSelectRightPane">                            <div class="ptTimeSelectMinCntr">                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">00</a>                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">05</a>                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">10</a>                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">15</a>                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">20</a>                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">25</a>                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">30</a>                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">35</a>                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">40</a>                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">45</a>                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">50</a>                                <a class="ptTimeSelectMin ui-state-default" href="javascript: void(0);">55</a>                                <br style="clear: left;"><div></div>                            </div>                        </div>                    </div>                </div>            </div>            <div style="clear: left;"></div>        </div>        <div id="ptTimeSelectSetButton">            <a href="javascript: void(0);" onclick="jQuery.ptTimeSelect.setTime()" onmouseover="jQuery(this).removeClass(&#39;ui-state-default&#39;).addClass(&#39;ui-state-hover&#39;);" onmouseout="jQuery(this).removeClass(&#39;ui-state-hover&#39;).addClass(&#39;ui-state-default&#39;);" class="ui-corner-all ui-state-default">                SET            </a>            <br style="clear: both;"><div></div>        </div>        <!--[if lte IE 6.5]>            <iframe style="display:block; position:absolute;top: 0;left:0;z-index:-1;                filter:Alpha(Opacity='0');width:3000px;height:3000px"></iframe>        <![endif]-->    </div></div>
